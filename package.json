@@ -1,0 +1,25 @@
+{
+  "name": "arurican",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arturican/nmpNode.git"
+  },
+  "keywords": [
+    "arurican"
+  ],
+  "author": "arturican",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arturican/nmpNode/issues"
+  },
+  "homepage": "https://github.com/arturican/nmpNode#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
